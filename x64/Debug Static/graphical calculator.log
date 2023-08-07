@@ -1,0 +1,25 @@
+﻿  Скопировано файлов:         1.
+  Подпапка или файл C:\Users\alexv\projects\graphical calculator\x64\Debug Static\resources уже существует.
+  C:\Users\alexv\projects\graphical calculator\resources\sansation.ttf
+  Скопировано файлов:         1.
+  Source.cpp
+c:\users\alexv\projects\graphical calculator\button.h(28): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\alexv\projects\graphical calculator\textfield.h(19): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\alexv\projects\graphical calculator\source.cpp(53): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  graphical calculator.vcxproj -> C:\Users\alexv\projects\graphical calculator\x64\Debug Static\graphical calculator.exe

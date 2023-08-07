@@ -1,0 +1,126 @@
+﻿  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Подпапка или файл C:\Users\alexv\projects\graphical calculator\x64\Debug Dynamic\resources уже существует.
+  C:\Users\alexv\projects\graphical calculator\resources\sansation.ttf
+  Скопировано файлов:         1.
+  Source.cpp
+c:\users\alexv\projects\graphical calculator\button.h(28): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\alexv\projects\graphical calculator\textfield.h(19): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\alexv\projects\graphical calculator\source.cpp(54): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\alexv\projects\graphical calculator\source.cpp(42): warning C4101: ke: неиспользованная локальная переменная
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_ShowWindow в функции main
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_ShowWindow"
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_ShowWindow"
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetDC в функции main
+sfml-window-s-d.lib(CursorImpl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_GetDC"
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_GetDC"
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_GetDC"
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_ReleaseDC в функции main
+sfml-window-s-d.lib(CursorImpl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_ReleaseDC"
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_ReleaseDC"
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_ReleaseDC"
+sfml-window-s-d.lib(CursorImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_LoadCursorW в функции "public: bool __cdecl sf::priv::CursorImpl::loadFromSystem(enum sf::Cursor::Type)" (?loadFromSystem@CursorImpl@priv@sf@@QEAA_NW4Type@Cursor@3@@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_LoadCursorW"
+sfml-window-s-d.lib(CursorImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_DestroyCursor в функции "private: void __cdecl sf::priv::CursorImpl::release(void)" (?release@CursorImpl@priv@sf@@AEAAXXZ)
+sfml-window-s-d.lib(CursorImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_CreateIconIndirect в функции "public: bool __cdecl sf::priv::CursorImpl::loadFromPixels(unsigned char const *,class sf::Vector2<unsigned int>,class sf::Vector2<unsigned int>)" (?loadFromPixels@CursorImpl@priv@sf@@QEAA_NPEBEV?$Vector2@I@3@1@Z)
+sfml-window-s-d.lib(CursorImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_CopyIcon в функции "public: bool __cdecl sf::priv::CursorImpl::loadFromSystem(enum sf::Cursor::Type)" (?loadFromSystem@CursorImpl@priv@sf@@QEAA_NW4Type@Cursor@3@@Z)
+sfml-window-s-d.lib(InputImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetAsyncKeyState в функции "public: static bool __cdecl sf::priv::InputImpl::isKeyPressed(enum sf::Keyboard::Key)" (?isKeyPressed@InputImpl@priv@sf@@SA_NW4Key@Keyboard@3@@Z)
+sfml-window-s-d.lib(InputImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetSystemMetrics в функции "public: static bool __cdecl sf::priv::InputImpl::isMouseButtonPressed(enum sf::Mouse::Button)" (?isMouseButtonPressed@InputImpl@priv@sf@@SA_NW4Button@Mouse@3@@Z)
+sfml-window-s-d.lib(InputImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_SetCursorPos в функции "public: static void __cdecl sf::priv::InputImpl::setMousePosition(class sf::Vector2<int> const &)" (?setMousePosition@InputImpl@priv@sf@@SAXAEBV?$Vector2@H@3@@Z)
+sfml-window-s-d.lib(InputImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetCursorPos в функции "public: static class sf::Vector2<int> __cdecl sf::priv::InputImpl::getMousePosition(void)" (?getMousePosition@InputImpl@priv@sf@@SA?AV?$Vector2@H@3@XZ)
+sfml-window-s-d.lib(InputImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_ClientToScreen в функции "public: static void __cdecl sf::priv::InputImpl::setMousePosition(class sf::Vector2<int> const &,class sf::Window const &)" (?setMousePosition@InputImpl@priv@sf@@SAXAEBV?$Vector2@H@3@AEBVWindow@3@@Z)
+sfml-window-s-d.lib(InputImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_ScreenToClient в функции "public: static class sf::Vector2<int> __cdecl sf::priv::InputImpl::getMousePosition(class sf::Window const &)" (?getMousePosition@InputImpl@priv@sf@@SA?AV?$Vector2@H@3@AEBVWindow@3@@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_ScreenToClient"
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_EnumDisplaySettingsW в функции "public: static class std::vector<class sf::VideoMode,class std::allocator<class sf::VideoMode> > __cdecl sf::priv::VideoModeImpl::getFullscreenModes(void)" (?getFullscreenModes@VideoModeImpl@priv@sf@@SA?AV?$vector@VVideoMode@sf@@V?$allocator@VVideoMode@sf@@@std@@@std@@XZ)
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_CreateWindowExA в функции "private: void __cdecl sf::priv::WglContext::createSurface(class sf::priv::WglContext *,unsigned int,unsigned int,unsigned int)" (?createSurface@WglContext@priv@sf@@AEAAXPEAV123@III@Z)
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_DestroyWindow в функции "public: virtual __cdecl sf::priv::WglContext::~WglContext(void)" (??1WglContext@priv@sf@@UEAA@XZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_DestroyWindow"
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_TrackMouseEvent в функции "private: void __cdecl sf::priv::WindowImplWin32::setTracking(bool)" (?setTracking@WindowImplWin32@priv@sf@@AEAAX_N@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_TranslateMessage в функции "protected: virtual void __cdecl sf::priv::WindowImplWin32::processEvents(void)" (?processEvents@WindowImplWin32@priv@sf@@MEAAXXZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_DispatchMessageW в функции "protected: virtual void __cdecl sf::priv::WindowImplWin32::processEvents(void)" (?processEvents@WindowImplWin32@priv@sf@@MEAAXXZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_PeekMessageW в функции "protected: virtual void __cdecl sf::priv::WindowImplWin32::processEvents(void)" (?processEvents@WindowImplWin32@priv@sf@@MEAAXXZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_SendMessageW в функции "public: virtual void __cdecl sf::priv::WindowImplWin32::setIcon(unsigned int,unsigned int,unsigned char const *)" (?setIcon@WindowImplWin32@priv@sf@@UEAAXIIPEBE@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_RegisterDeviceNotificationW в функции "public: __cdecl sf::priv::WindowImplWin32::WindowImplWin32(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (??0WindowImplWin32@priv@sf@@QEAA@VVideoMode@2@AEBVString@2@IAEBUContextSettings@2@@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_DefWindowProcW в функции "private: static __int64 __cdecl sf::priv::WindowImplWin32::globalOnEvent(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?globalOnEvent@WindowImplWin32@priv@sf@@CA_JPEAUHWND__@@I_K_J@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_CallWindowProcW в функции "private: static __int64 __cdecl sf::priv::WindowImplWin32::globalOnEvent(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?globalOnEvent@WindowImplWin32@priv@sf@@CA_JPEAUHWND__@@I_K_J@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_RegisterClassW в функции "private: void __cdecl sf::priv::WindowImplWin32::registerWindowClass(void)" (?registerWindowClass@WindowImplWin32@priv@sf@@AEAAXXZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_UnregisterClassW в функции "public: virtual __cdecl sf::priv::WindowImplWin32::~WindowImplWin32(void)" (??1WindowImplWin32@priv@sf@@UEAA@XZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_CreateWindowExW в функции "public: __cdecl sf::priv::WindowImplWin32::WindowImplWin32(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (??0WindowImplWin32@priv@sf@@QEAA@VVideoMode@2@AEBVString@2@IAEBUContextSettings@2@@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_FlashWindowEx в функции "public: virtual void __cdecl sf::priv::WindowImplWin32::requestFocus(void)" (?requestFocus@WindowImplWin32@priv@sf@@UEAAXXZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_SetWindowPos в функции "public: virtual void __cdecl sf::priv::WindowImplWin32::setPosition(class sf::Vector2<int> const &)" (?setPosition@WindowImplWin32@priv@sf@@UEAAXAEBV?$Vector2@H@3@@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetKeyState в функции "private: void __cdecl sf::priv::WindowImplWin32::processEvent(unsigned int,unsigned __int64,__int64)" (?processEvent@WindowImplWin32@priv@sf@@AEAAXI_K_J@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_MapVirtualKeyW в функции "private: static enum sf::Keyboard::Key __cdecl sf::priv::WindowImplWin32::virtualKeyCodeToSF(unsigned __int64,__int64)" (?virtualKeyCodeToSF@WindowImplWin32@priv@sf@@CA?AW4Key@Keyboard@3@_K_J@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetCapture в функции "private: void __cdecl sf::priv::WindowImplWin32::processEvent(unsigned int,unsigned __int64,__int64)" (?processEvent@WindowImplWin32@priv@sf@@AEAAXI_K_J@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_SetCapture в функции "private: void __cdecl sf::priv::WindowImplWin32::processEvent(unsigned int,unsigned __int64,__int64)" (?processEvent@WindowImplWin32@priv@sf@@AEAAXI_K_J@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_ReleaseCapture в функции "private: void __cdecl sf::priv::WindowImplWin32::cleanup(void)" (?cleanup@WindowImplWin32@priv@sf@@AEAAXXZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetForegroundWindow в функции "public: virtual void __cdecl sf::priv::WindowImplWin32::requestFocus(void)" (?requestFocus@WindowImplWin32@priv@sf@@UEAAXXZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_SetForegroundWindow в функции "public: virtual void __cdecl sf::priv::WindowImplWin32::requestFocus(void)" (?requestFocus@WindowImplWin32@priv@sf@@UEAAXXZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_SetWindowTextW в функции "public: virtual void __cdecl sf::priv::WindowImplWin32::setTitle(class sf::String const &)" (?setTitle@WindowImplWin32@priv@sf@@UEAAXAEBVString@3@@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetClientRect в функции "public: virtual class sf::Vector2<unsigned int> __cdecl sf::priv::WindowImplWin32::getSize(void)const " (?getSize@WindowImplWin32@priv@sf@@UEBA?AV?$Vector2@I@3@XZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetWindowRect в функции "public: virtual class sf::Vector2<int> __cdecl sf::priv::WindowImplWin32::getPosition(void)const " (?getPosition@WindowImplWin32@priv@sf@@UEBA?AV?$Vector2@H@3@XZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_AdjustWindowRect в функции "public: __cdecl sf::priv::WindowImplWin32::WindowImplWin32(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (??0WindowImplWin32@priv@sf@@QEAA@VVideoMode@2@AEBVString@2@IAEBUContextSettings@2@@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_ShowCursor в функции "public: virtual void __cdecl sf::priv::WindowImplWin32::setMouseCursorVisible(bool)" (?setMouseCursorVisible@WindowImplWin32@priv@sf@@UEAAX_N@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_SetCursor в функции "public: virtual void __cdecl sf::priv::WindowImplWin32::setMouseCursor(class sf::priv::CursorImpl const &)" (?setMouseCursor@WindowImplWin32@priv@sf@@UEAAXAEBVCursorImpl@23@@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_MapWindowPoints в функции "private: void __cdecl sf::priv::WindowImplWin32::grabCursor(bool)" (?grabCursor@WindowImplWin32@priv@sf@@AEAAX_N@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_ClipCursor в функции "private: void __cdecl sf::priv::WindowImplWin32::grabCursor(bool)" (?grabCursor@WindowImplWin32@priv@sf@@AEAAX_N@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetWindowLongW в функции "public: virtual void __cdecl sf::priv::WindowImplWin32::setSize(class sf::Vector2<unsigned int> const &)" (?setSize@WindowImplWin32@priv@sf@@UEAAXAEBV?$Vector2@I@3@@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_SetWindowLongW в функции "private: void __cdecl sf::priv::WindowImplWin32::switchToFullscreen(class sf::VideoMode const &)" (?switchToFullscreen@WindowImplWin32@priv@sf@@AEAAXAEBVVideoMode@3@@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetWindowLongPtrW в функции "private: static __int64 __cdecl sf::priv::WindowImplWin32::globalOnEvent(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?globalOnEvent@WindowImplWin32@priv@sf@@CA_JPEAUHWND__@@I_K_J@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_SetWindowLongPtrW в функции "public: __cdecl sf::priv::WindowImplWin32::WindowImplWin32(struct HWND__ *)" (??0WindowImplWin32@priv@sf@@QEAA@PEAUHWND__@@@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetWindowThreadProcessId в функции "public: virtual void __cdecl sf::priv::WindowImplWin32::requestFocus(void)" (?requestFocus@WindowImplWin32@priv@sf@@UEAAXXZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_CreateIcon в функции "public: virtual void __cdecl sf::priv::WindowImplWin32::setIcon(unsigned int,unsigned int,unsigned char const *)" (?setIcon@WindowImplWin32@priv@sf@@UEAAXIIPEBE@Z)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_DestroyIcon в функции "public: virtual __cdecl sf::priv::WindowImplWin32::~WindowImplWin32(void)" (??1WindowImplWin32@priv@sf@@UEAA@XZ)
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_ChangeDisplaySettingsW в функции "private: void __cdecl sf::priv::WindowImplWin32::switchToFullscreen(class sf::VideoMode const &)" (?switchToFullscreen@WindowImplWin32@priv@sf@@AEAAXAEBVVideoMode@3@@Z)
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_RegCloseKey в функции "class sf::String __cdecl `anonymous namespace'::getDeviceName(unsigned int,struct tagJOYCAPSW)" (?getDeviceName@?A0x8939b4a8@@YA?AVString@sf@@IUtagJOYCAPSW@@@Z)
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_RegOpenKeyExW в функции "class sf::String __cdecl `anonymous namespace'::getDeviceName(unsigned int,struct tagJOYCAPSW)" (?getDeviceName@?A0x8939b4a8@@YA?AVString@sf@@IUtagJOYCAPSW@@@Z)
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp_RegQueryValueExW в функции "class sf::String __cdecl `anonymous namespace'::getDeviceName(unsigned int,struct tagJOYCAPSW)" (?getDeviceName@?A0x8939b4a8@@YA?AVString@sf@@IUtagJOYCAPSW@@@Z)
+extlibs\lib\x86\flac.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\freetype.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\ogg.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\openal32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-audio-d.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-audio-s-d.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-audio-s.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-audio.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-graphics-d.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-graphics-s-d.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-graphics-s.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-graphics.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-main-d.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-main.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-network-d.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-network-s-d.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-network-s.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-network.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-system-d.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-system-s-d.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-system-s.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-system.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-window-d.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-window-s-d.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-window-s.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\sfml-window.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\vorbis.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\vorbisenc.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+extlibs\lib\x86\vorbisfile.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\alexv\projects\graphical calculator\x64\Debug Dynamic\graphical calculator.exe : fatal error LNK1120: неразрешенных внешних элементов: 55
